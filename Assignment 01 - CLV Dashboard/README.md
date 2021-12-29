@@ -1,10 +1,10 @@
 
 # CLV Dashborad
 [![](https://img.shields.io/badge/-Dashboard-blue)](#) [![](https://img.shields.io/badge/-Power--BI-blue)](#) 
-## Data set : Supermarket sales in Apr 2006 - Jul 2008
+## Data set : Supermarket data
 
 ## Main Dashboard
-![Supermarket_Dashboard](./Supermarket_Dashboard.JPG)
+![Supermarket_Dashboard](./CLV.JPG)
 
 ### section 1 : Filter
    - Date 
